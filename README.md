@@ -115,15 +115,6 @@ I am a results-driven **DevOps Engineer** and MCA student with hands-on experien
 
 ---
 
-### 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rharikrishnanrajan&theme=flat" alt="Trophies" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rharikrishnanrajan&show_icons=true&locale=en&theme=flat" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rharikrishnanrajan&show_icons=true&locale=en&layout=compact&theme=flat" alt="Top Langs" />
