@@ -5,15 +5,16 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/EDUCATION-MCA%20Student-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-DevOps%20%26%20Cloud-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_EDUCATION-MCA_Student-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎯_FOCUS-DevOps_%26_Cloud-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_BASED_IN-India-4C1D95?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/rharikrishnanrajan"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:rharikrishnanrajan@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/rharikrishnanrajan"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/rharikrishnanrajan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rharikrishnanrajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rharikrishnanrajan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dev.to/rharikrishnanraja"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -194,17 +195,16 @@ goal:
 ## ■ Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/rharikrishnanrajan"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:rharikrishnanrajan@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/rharikrishnanrajan"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/rharikrishnanrajan"><img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rharikrishnanrajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/rharikrishnanrajan"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://dev.to/rharikrishnanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="DevTo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26832913/rharikrishnanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
-<a href="https://instagram.com/rharikrishnanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://dribbble.com/rharikrishnanraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@code_create01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26832913/rharikrishnanraja"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://instagram.com/rharikrishnanraja"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://dribbble.com/rharikrishnanraja"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/@code_create01"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
 ---
